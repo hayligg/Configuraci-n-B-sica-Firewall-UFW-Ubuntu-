@@ -56,7 +56,7 @@ nc -zv 127.0.0.1 21 mostrando puerto 21 denegado.
 ## Resultados
 
 Navegación web funciona (HTTP/HTTPS permitido).
-
+![image alt](https://github.com/hayligg/Configuraci-n-B-sica-Firewall-UFW-Ubuntu-/blob/3f01f792ef15960ee64a9754e2e8772ad913f151/https%20result.png)
 SSH sigue siendo accesible.
 
 ICMP (ping) bloqueado → mayor seguridad contra escaneos.
