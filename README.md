@@ -1,5 +1,9 @@
 # Configuración-Básica-Firewall-UFW-Ubuntu
 # Proyecto: Configuración básica de firewall con UFW en Ubuntu
+## 👤 Autor
+- **Carlos Saldaña**                                                          
+- **Correo**: [c.a.saldana20@gmail.com](mailto:c.a.sadlana20@gmail.com)
+- **LinkedIn**: [linkedin.com/in/carlos-saldana](www.linkedin.com/in/carlossalca)
 
 ## Descripción
 Este proyecto demuestra cómo configurar **UFW (Uncomplicated Firewall)** en Ubuntu Server para:
