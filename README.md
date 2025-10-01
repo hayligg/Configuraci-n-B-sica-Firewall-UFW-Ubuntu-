@@ -39,7 +39,7 @@ sudo nano /etc/ufw/before.rules
 sudo ufw disable
 sudo ufw enable
   ```
-Evidencias
+## Evidencias
 
 ufw status numbered mostrando reglas activas.
 
@@ -49,7 +49,7 @@ curl https://example.com funcionando.
 
 nc -zv 127.0.0.1 21 mostrando puerto 21 denegado.
 
-Resultados
+## Resultados
 
 Navegación web funciona (HTTP/HTTPS permitido).
 
