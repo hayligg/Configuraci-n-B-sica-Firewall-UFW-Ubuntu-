@@ -58,12 +58,13 @@ nc -zv 127.0.0.1 21 mostrando puerto 21 denegado.
 Navegación web funciona (HTTP/HTTPS permitido).
 ![image alt](https://github.com/hayligg/Configuraci-n-B-sica-Firewall-UFW-Ubuntu-/blob/3f01f792ef15960ee64a9754e2e8772ad913f151/https%20result.png)
 SSH sigue siendo accesible.
-
+![image alt](https://github.com/hayligg/Configuraci-n-B-sica-Firewall-UFW-Ubuntu-/blob/8775c8f94bffcd37d605f0b1047739710124139b/ssh.png)
 ICMP (ping) bloqueado → mayor seguridad contra escaneos.
-
+![image alt](https://github.com/hayligg/Configuraci-n-B-sica-Firewall-UFW-Ubuntu-/blob/3f01f792ef15960ee64a9754e2e8772ad913f151/ping%20request.png)
 Servicios no utilizados (FTP) cerrados.
-
-Importancia en seguridad
+![image alt](https://github.com/hayligg/Configuraci-n-B-sica-Firewall-UFW-Ubuntu-/blob/3f01f792ef15960ee64a9754e2e8772ad913f151/conexion%20refused.png
+)
+## Importancia en seguridad
 
 Esta configuración demuestra el principio de mínimo privilegio en redes:
 
