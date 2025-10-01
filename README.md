@@ -19,14 +19,14 @@ Este proyecto demuestra cómo configurar **UFW (Uncomplicated Firewall)** en Ubu
    sudo ufw enable
 Permitir servicios esenciales:
   ```bash
-sudo ufw allow 22/tcp
-sudo ufw allow 80/tcp
-sudo ufw allow 443/tcp
+  sudo ufw allow 22/tcp
+  sudo ufw allow 80/tcp
+  sudo ufw allow 443/tcp
   ```
 
 3. Editar reglas para bloquear ICMP (ping):
   ```bash
-sudo nano /etc/ufw/before.rules
+  sudo nano /etc/ufw/before.rules
   ```
 
   3.1 Se comentó la línea:
@@ -36,8 +36,8 @@ sudo nano /etc/ufw/before.rules
 
 4. Reiniciar UFW:
   ```bash
-sudo ufw disable
-sudo ufw enable
+ sudo ufw disable
+ sudo ufw enable
   ```
 ## Evidencias
 
