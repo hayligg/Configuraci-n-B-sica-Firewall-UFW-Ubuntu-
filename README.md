@@ -47,7 +47,7 @@ Permitir servicios esenciales:
 
 ufw status numbered mostrando reglas activas.
 
-ping a 8.8.8.8 bloqueado.
+ping a VM bloqueado.
 
 curl https://example.com funcionando.
 
